@@ -1,2 +1,2 @@
-http://cypress0522.github.io/FragmentXwords/2022/12/05/hello-world/
-http://cypress0522.github.io/FragmentXwords
+https://cypress0522.github.io/FragmentXwords/2022/12/05/hello-world/
+https://cypress0522.github.io/FragmentXwords
